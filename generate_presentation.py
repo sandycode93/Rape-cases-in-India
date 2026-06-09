@@ -77,6 +77,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1034, "BJP", "Raman Singh"),
         "Odisha":           (985, "BJD", "Naveen Patnaik"),
         "Kerala":           (810, "LDF (CPI-M)", "V.S. Achuthanandan"),
+        "Tamil Nadu":       (893, "DMK", "M. Karunanidhi"),
     }, 22172),
 
     # ── 2011 ──
@@ -91,6 +92,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1150, "BJP", "Raman Singh"),
         "Odisha":           (1090, "BJD", "Naveen Patnaik"),
         "Kerala":           (880, "UDF (INC)", "Oommen Chandy"),
+        "Tamil Nadu":       (777, "AIADMK", "J. Jayalalithaa"),
     }, 24206),
 
     # ── 2012 ──
@@ -105,6 +107,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1200, "BJP", "Raman Singh"),
         "Odisha":           (1100, "BJD", "Naveen Patnaik"),
         "Kerala":           (920, "UDF (INC)", "Oommen Chandy"),
+        "Tamil Nadu":       (826, "AIADMK", "J. Jayalalithaa"),
     }, 24923),
 
     # ── 2013 ──
@@ -119,6 +122,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1400, "BJP", "Raman Singh"),
         "Odisha":           (1357, "BJD", "Naveen Patnaik"),
         "Kerala":           (1163, "UDF (INC)", "Oommen Chandy"),
+        "Tamil Nadu":       (912, "AIADMK", "J. Jayalalithaa"),
     }, 33707),
 
     # ── 2014 ──
@@ -133,6 +137,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1500, "BJP", "Raman Singh"),
         "Odisha":           (1453, "BJD", "Naveen Patnaik"),
         "Kerala":           (1234, "UDF (INC)", "Oommen Chandy"),
+        "Tamil Nadu":       (1064, "AIADMK", "J. Jayalalithaa"),
     }, 36735),
 
     # ── 2015 ──
@@ -147,6 +152,7 @@ STATE_DATA = {
         "Odisha":           (1360, "BJD", "Naveen Patnaik"),
         "Kerala":           (1180, "UDF (INC)", "Oommen Chandy"),
         "Chhattisgarh":     (1350, "BJP", "Raman Singh"),
+        "Tamil Nadu":       (839, "AIADMK", "J. Jayalalithaa"),
     }, 34651),
 
     # ── 2016 ──
@@ -161,6 +167,7 @@ STATE_DATA = {
         "Odisha":           (1380, "BJD", "Naveen Patnaik"),
         "Chhattisgarh":     (1400, "BJP", "Raman Singh"),
         "Kerala":           (1200, "LDF (CPI-M)", "Pinarayi Vijayan"),
+        "Tamil Nadu":       (705, "AIADMK", "J. Jayalalithaa"),
     }, 38947),
 
     # ── 2017 ──
@@ -175,6 +182,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1280, "BJP", "Raman Singh"),
         "Odisha":           (1210, "BJD", "Naveen Patnaik"),
         "West Bengal":      (930, "AITC", "Mamata Banerjee"),
+        "Tamil Nadu":       (595, "AIADMK", "Edappadi K. Palaniswami"),
     }, 32559),
 
     # ── 2018 ──
@@ -189,6 +197,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1380, "INC (from Dec)", "Bhupesh Baghel"),
         "Odisha":           (1200, "BJD", "Naveen Patnaik"),
         "West Bengal":      (880, "AITC", "Mamata Banerjee"),
+        "Tamil Nadu":       (623, "AIADMK", "Edappadi K. Palaniswami"),
     }, 33356),
 
     # ── 2019 ──
@@ -203,6 +212,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1240, "INC", "Bhupesh Baghel"),
         "Odisha":           (1150, "BJD", "Naveen Patnaik"),
         "West Bengal":      (820, "AITC", "Mamata Banerjee"),
+        "Tamil Nadu":       (588, "AIADMK", "Edappadi K. Palaniswami"),
     }, 32033),
 
     # ── 2020 ──
@@ -217,6 +227,7 @@ STATE_DATA = {
         "Odisha":           (997, "BJD", "Naveen Patnaik"),
         "Kerala":           (920, "LDF (CPI-M)", "Pinarayi Vijayan"),
         "Haryana":          (1285, "BJP", "Manohar Lal Khattar"),
+        "Tamil Nadu":       (543, "AIADMK", "Edappadi K. Palaniswami"),
     }, 28046),
 
     # ── 2021 ──
@@ -231,6 +242,7 @@ STATE_DATA = {
         "Chhattisgarh":     (1180, "INC", "Bhupesh Baghel"),
         "Odisha":           (1100, "BJD", "Naveen Patnaik"),
         "Kerala":           (980, "LDF (CPI-M)", "Pinarayi Vijayan"),
+        "Tamil Nadu":       (780, "DMK", "M.K. Stalin"),
     }, 31677),
 
     # ── 2022 ──
@@ -247,6 +259,7 @@ STATE_DATA = {
         "Odisha":           (1129, "BJD", "Naveen Patnaik"),
         "Kerala":           (1005, "LDF (CPI-M)", "Pinarayi Vijayan"),
         "Karnataka":        (833, "BJP", "Basavaraj Bommai"),
+        "Tamil Nadu":       (831, "DMK", "M.K. Stalin"),
     }, 31516),
 
     # ── 2023 ──
@@ -263,6 +276,7 @@ STATE_DATA = {
         "Odisha":           (1020, "BJD", "Naveen Patnaik"),
         "Kerala":           (973, "LDF (CPI-M)", "Pinarayi Vijayan"),
         "Karnataka":        (808, "INC (from May)", "Siddaramaiah"),
+        "Tamil Nadu":       (819, "DMK", "M.K. Stalin"),
     }, 29670),
 
     # ── 2024 ──
@@ -279,6 +293,7 @@ STATE_DATA = {
         "Assam":            (910, "BJP", "Himanta Biswa Sarma"),
         "Odisha":           (892, "BJP (from Jun)", "Mohan Charan Majhi"),
         "Karnataka":        (671, "INC", "Siddaramaiah"),
+        "Tamil Nadu":       (793, "DMK", "M.K. Stalin"),
     }, 29536),
 }
 

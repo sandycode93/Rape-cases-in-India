@@ -20,6 +20,7 @@ The PDF is structured into two main sections:
 ### Section 2 — State-Wise Breakdown (Last 15 Years: 2010–2024)
 - One table per year showing top contributing states
 - Columns: **State**, **Cases**, **% of Total**, **Ruling Party**, **Chief Minister**
+- **Tamil Nadu** must be included in every year's state-wise table alongside the existing states
 - Remaining states/UTs aggregated as "Others"
 - Percentage reflects each state's share of the national total for that year
 
